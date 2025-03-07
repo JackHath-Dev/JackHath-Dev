@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JellyChronicles
-- 👀 I’m interested in lots of this
+- 👀 I’m interested in lots of things
 - 🌱 I’m currently learning game development on Godot, Neural Networks, and Full Stack development
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - Discord - jellychronicles.
