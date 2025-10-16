@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @JellyChronicles
+- 👋 Hi, I’m Jack
+- I'm a first year Computer Science student
 - Kaggle - https://www.kaggle.com/jackhath44
 - Leetcode - https://leetcode.com/u/JackH44/
 <!---
